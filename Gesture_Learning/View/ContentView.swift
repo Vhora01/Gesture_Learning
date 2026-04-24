@@ -15,6 +15,7 @@ struct ContentView: View {
                 DragSectionView()
                 RotationSectionView()
                 GeneralGestureView()
+                LongPressGestureView()
             }
             .navigationTitle("Gesture Learning")
         }
